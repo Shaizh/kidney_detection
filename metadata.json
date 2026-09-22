@@ -1,0 +1,6 @@
+{
+  "name": "Kidney Disease Image Diagnostic Support",
+  "description": "Deep learning image analysis for early kidney disease detection and anatomical scan verification against clinical benchmark datasets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
